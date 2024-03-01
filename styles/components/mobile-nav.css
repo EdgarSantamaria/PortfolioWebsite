@@ -36,7 +36,7 @@
   }
   
   .mobile-nav__link-line {
-    border: 1px solid var(--clr-slate800);
+    border: 1px solid #f1f5f9;
     padding-right: 1.5em;
   }
   
@@ -44,7 +44,7 @@
     display: block;
     width: var(--size-xl);
     height: var(--size-xl);
-    color: var(--clr-slate600);
+    color: #f1f5f9;
   }
   
   .mobile-nav__btn {

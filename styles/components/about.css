@@ -18,11 +18,11 @@
 .about__description {
     max-width: 60ch;
     font-size: var(--size-sm);
-    color: var(--clr-slate600);
+    color: var(--clr-light);
 }
 
 .about__hr {
-    border-color: var(--clr-slate800);
+    border-color: var(--clr-light);
 }
 
 .about__subtitle {
@@ -43,7 +43,7 @@
 
 .about__list {
     font-size: var(--size-sm);
-    color: var(--clr-slate600);
+    color: var(--clr-light);
 }
 
 .about__list::before {
@@ -150,7 +150,7 @@
     }
   
     .about__image {
-        padding-left: 30px;
+        padding-left: 10px;
         padding-bottom: 30px;
         width: 35rem;
     }

@@ -48,7 +48,7 @@
         font-size: var(--size-xs);
         text-decoration: none;
         font-weight: 600;
-        color: var(--clr-slate600);
+        color: var(--clr-light);
         letter-spacing: -0.05em;
         transition: color 0.3s;
         float: right;
@@ -59,13 +59,13 @@
     }
 
     .header__line {
-        border: 1px solid var(--clr-slate600);
+        border: 1px solid #f1f5f9;
         padding-top: 1.5em;
     }
 
     .header__sun {
         display: block;
-        color: var(--clr-slate600);
+        color: #f1f5f9;
         width: var(--size-base);
         height: var(--size-base);
     }
@@ -91,6 +91,7 @@
     }
 
     .header__sun {
+        color: #f1f5f9;
         width: var(--size-xl);
         height: var(--size-xl);
     }
